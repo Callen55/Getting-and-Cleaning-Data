@@ -23,3 +23,5 @@ The data is from experiments carried out using a cellular device's accelerometer
 
 Using the run_analysis.R script we merged the test and the training datasets and extracted the values for the mean and the standard deviation for all three of the axial measurments, and added the activity lables for more readablity.
 Additionally we created another dataset (named: Second_set.txt)  that aggrigated the mean of the prior means and standard deviations by the test subject and the activity type. 
+
+Codebook was generated using the 'memisc' package
