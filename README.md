@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data
 Coursera Data Science Course 3 project
 
-Project paramaters:
+Project parameters::
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 Review criterialess 
